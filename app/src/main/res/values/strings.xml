@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Memo</string>
+    <string name="delete">delete</string>
+    <string name="share" />
+    <string name="save">save</string>
+</resources>
